@@ -1,0 +1,32 @@
+{
+  "name": "pz-gof-patterns",
+  "version": "1.0.0",
+  "description": "Practical lesson pz-GOF: implementation of GoF design patterns in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node examples/run-all.ts",
+    "build": "tsc",
+    "run": "ts-node examples/run-all.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.0"
+  },
+  "keywords": [
+    "gof",
+    "design-patterns",
+    "typescript",
+    "factory-method",
+    "abstract-factory",
+    "builder",
+    "singleton",
+    "adapter",
+    "facade",
+    "decorator",
+    "strategy",
+    "observer"
+  ],
+  "author": "Student",
+  "license": "MIT"
+}
