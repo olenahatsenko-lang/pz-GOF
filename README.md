@@ -55,3 +55,15 @@ pz-GOF/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+
+## Як запустити
+
+1. Встановіть залежності:
+```bash
+npm install
+```
+
+2. Запустіть усі приклади:
+```bash
+npm run start
+```
